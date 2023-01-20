@@ -4,7 +4,7 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 
 <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=mebakid74&show_icons=true&theme=radical" /> 
 
-<img align="left" width="48%" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebakid74&layout=compact" />
+<img align="left" width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebakid74&layout=compact" />
 
 
 <img align="" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
