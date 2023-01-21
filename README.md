@@ -8,6 +8,8 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 
 <br />
 
+<br />
+
 ## Development tools:
 
 <img align="" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -18,6 +20,8 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 
 <img align="" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
+
+<br />
 
 <br />
 
