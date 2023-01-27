@@ -8,8 +8,6 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 
 <br />
 
-<br />
-
 ## Development tools:
 
 The following are the programming languages and software development tools I use in my most daily projects:
