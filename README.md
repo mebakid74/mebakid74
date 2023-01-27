@@ -14,9 +14,7 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 
 The following are the programming languages and software development tools I use in my most daily projects:
 
-<br />
-
-<img align="lef" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
@@ -48,6 +46,4 @@ The following are the programming languages and software development tools I use
 ## Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mebakid74) 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://mebakidwork@gmail.com)
 
