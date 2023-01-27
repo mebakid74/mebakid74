@@ -47,5 +47,3 @@ The following are the programming languages and software development tools I use
 ## Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mebakid74) 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](http://mebakidwork@gmail.com)
