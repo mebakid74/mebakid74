@@ -6,8 +6,11 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 
 <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebakid74&layout=compact" />
 
+<br />
 
-### Development tools:
+<br />
+
+## Development tools:
 
 The following are the programming languages and software development tools I use in my most daily projects:
 
