@@ -12,6 +12,8 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 
 ## Development tools:
 
+<img align="" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+
 <img align="" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 <img align="" alt="Node.JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -19,6 +21,8 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 <img align="" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img align="" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+<img align="" alt="React" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 
 <br />
@@ -40,4 +44,6 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 ## Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mebakid74) 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mebakidwork@gmail.com)
 
