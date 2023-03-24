@@ -78,6 +78,7 @@ The following are the programming languages and software development tools I use
 
 <br />
 
+<br />
 
 ## Currently learning:
 
