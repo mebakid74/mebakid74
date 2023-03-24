@@ -20,7 +20,7 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 
 <br />
 
-### Development tools:
+## Development tools:
 
 The following are the programming languages and software development tools I use in my most daily projects: <br />
 
@@ -42,7 +42,7 @@ The following are the programming languages and software development tools I use
 
 <br />
 
-### Other tools: 
+## Other tools: 
 
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
 
@@ -62,17 +62,16 @@ The following are the programming languages and software development tools I use
 
 <br />
 
-
-### Currently learning:
+## Currently learning:
 
 <img align="left" alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <br />
 
 <br />
 
-### Get in touch:
+## Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mebakid74) 
