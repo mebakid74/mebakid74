@@ -24,14 +24,9 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 
 <br />
 
-## Development tools:
-
-<br />
-
-<br />
+## Dev. tools:
 
 The following are the programming languages and software development tools I use in my most daily projects:
-
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 
