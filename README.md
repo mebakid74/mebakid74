@@ -2,11 +2,9 @@
 
 A 3rd year Master's student in Computer Science and Engineering with a passion for developing innovative software solutions. Always eager to learn new technologies and apply them to real-world problems by continuously seeking new challenges and opportunities to expand my knowledge and skills.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mebakid74&show_icons=true&theme=radical" /> 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mebakid74&show_icons=true&theme=radical" />  <br />
 
-<img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebakid74&layout=compact" />
-
-<br />
+<img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebakid74&layout=compact" /> <br />
 
 <br />
 
@@ -20,8 +18,10 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 
 <br />
 
+<br />
 
-## Dev. tools:
+
+## Development tools:
 
 <br />
 
@@ -38,7 +38,6 @@ The following are the programming languages and software development tools I use
 
 <img align="left" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
-<br />
 
 <img align="left" alt="Node.JS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
@@ -65,7 +64,7 @@ The following are the programming languages and software development tools I use
 
 <img align="left" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-<br />
+
 <img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 
 
@@ -78,8 +77,6 @@ The following are the programming languages and software development tools I use
 
 <br />
 
-<br />
-
 ## Currently learning:
 
 <img align="left" alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
@@ -87,6 +84,8 @@ The following are the programming languages and software development tools I use
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br />
 
 <br />
 
