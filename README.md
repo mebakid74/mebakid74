@@ -40,6 +40,8 @@ The following are the programming languages and software development tools I use
 
 <br />
 
+<br />
+
 ## Other tools: 
 
 <img align="left" alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
@@ -55,6 +57,8 @@ The following are the programming languages and software development tools I use
 <img align="left" alt="Brave"  src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
 
 <img align="left" alt="LaTex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /> <br />
+
+<br />
 
 <br />
 
