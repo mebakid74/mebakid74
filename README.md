@@ -21,10 +21,9 @@ A 3rd year Master's student in Computer Science and Engineering with a passion f
 <br />
 
 
-
-
-
 ## Dev. tools:
+
+<br />
 
 The following are the programming languages and software development tools I use in my most daily projects:
 
@@ -73,13 +72,12 @@ The following are the programming languages and software development tools I use
 <img align="left" alt="Brave"  src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
 
 
-<img align="left" alt="LaTex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /> <br />
+<img align="left" alt="LaTex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /> 
 
 <br />
 
 <br />
 
-<br />
 
 ## Currently learning:
 
