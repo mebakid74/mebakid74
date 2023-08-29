@@ -1,6 +1,6 @@
 # Hello World, I'm Meba! 
 
-A 3rd year Master's student in Computer Science and Engineering with a passion for developing innovative software solutions. Always eager to learn new technologies and apply them to real-world problems by continuously seeking new challenges and opportunities to expand my knowledge and skills.
+A 4th year Master's student in Computer Science and Engineering with a passion for developing innovative software solutions. Always eager to learn new technologies and apply them to real-world problems by continuously seeking new challenges and opportunities to expand my knowledge and skills.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=mebakid74&show_icons=true&theme=radical" />  <br />
 
