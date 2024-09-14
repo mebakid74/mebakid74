@@ -38,6 +38,8 @@ The following are the programming languages and software development tools I use
 
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <br />
 
+<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <br />
+
 <br />
 
 <br />
@@ -66,8 +68,6 @@ The following are the programming languages and software development tools I use
 ## Currently learning:
 
 <img align="left" alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-
-<img align="left" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
 
