@@ -71,6 +71,8 @@ The following are the programming languages and software development tools I use
 
 <img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
 
+<img align="left" alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" /> 
+
 <br />
 
 ## Get in touch:
